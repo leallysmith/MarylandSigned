@@ -1,0 +1,11 @@
+,field,full_field_name
+0,lndClss,land_class
+1,geometry,geometry
+2,trCvr,tree_cover
+3,lbl,label
+4,lyrId,layer_id
+5,lyrKy,layer_key
+6,stbck,setback
+7,exFrmBldbl,exclude_from_buildable
+8,ar,area
+9,ftrWdth,feature_width

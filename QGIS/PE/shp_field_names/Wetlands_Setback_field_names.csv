@@ -1,0 +1,9 @@
+,field,full_field_name
+0,geometry,geometry
+1,lyrNm,layer_name
+2,stbckAr,setback_area
+3,lyrId,layer_id
+4,lyrKy,layer_key
+5,lbl,label
+6,exFrmBldbl,exclude_from_buildable
+7,ftrWdth,feature_width

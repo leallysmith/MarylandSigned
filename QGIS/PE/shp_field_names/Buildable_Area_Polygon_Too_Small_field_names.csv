@@ -1,0 +1,8 @@
+,field,full_field_name
+0,descrption,description
+1,name,name
+2,lbl,label
+3,acrs,acres
+4,pctBldblSm,percent_buildable_small
+5,smll,small
+6,geometry,geometry

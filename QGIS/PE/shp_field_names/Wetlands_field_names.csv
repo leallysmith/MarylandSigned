@@ -1,0 +1,15 @@
+,field,full_field_name
+0,indx,index
+1,attrbt,ATTRIBUTE
+2,wtlndTyp,WETLAND_TYPE
+3,geometry,geometry
+4,lyrNm,layer_name
+5,lyrId,layer_id
+6,lyrKy,layer_key
+7,svcNm,svc_name
+8,svcId,svc_id
+9,lbl,label
+10,ar,area
+11,stbck,setback
+12,exFrmBldbl,exclude_from_buildable
+13,ftrWdth,feature_width
