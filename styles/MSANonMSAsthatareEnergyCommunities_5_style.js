@@ -5,7 +5,7 @@ function categories_MSANonMSAsthatareEnergyCommunities_5(feature, value, size, r
                        placement) {
                 switch(value.toString()) {case 'is an energy community, as it meets both the Fossil Fuel Employment (FFE) threshold and the unemployment rate requirement':
                     return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(153,153,153,0.25098039215686274)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 2}),fill: new ol.style.Fill({color: 'rgba(179,178,235,0.6941176470588235)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(153,153,153,0.25098039215686274)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 2.8499999999999996}),fill: new ol.style.Fill({color: 'rgba(179,178,235,0.6941176470588235)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)

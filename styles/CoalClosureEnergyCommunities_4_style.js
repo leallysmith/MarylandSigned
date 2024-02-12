@@ -5,7 +5,7 @@ function categories_CoalClosureEnergyCommunities_4(feature, value, size, resolut
                        placement) {
                 switch(value.toString()) {case 'Census tract directly adjoining a census tract with a coal closure':
                     return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(178,178,178,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0}),fill: new ol.style.Fill({color: 'rgba(255,205,109,1.0)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(178,178,178,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.57}),fill: new ol.style.Fill({color: 'rgba(255,205,109,1.0)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
@@ -13,7 +13,7 @@ function categories_CoalClosureEnergyCommunities_4(feature, value, size, resolut
                     break;
 case 'Census tract with a coal closure':
                     return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(178,178,178,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0}),fill: new ol.style.Fill({color: 'rgba(255,132,0,1.0)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(178,178,178,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.57}),fill: new ol.style.Fill({color: 'rgba(255,132,0,1.0)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
